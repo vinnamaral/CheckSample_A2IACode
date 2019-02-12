@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dropbox\Desenvolvimento\Projetos\Android Studio Projects\CheckSample_A2IACode\app\libs\A2iA.Mobility.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d9e5569602cf2633f6793a52da9851a43591e7f2">
+        <dex dex="D:\Dropbox\Desenvolvimento\Projetos\Android Studio Projects\CheckSample_A2IACode\app\build\intermediates\pre-dexed\debug\A2iA.Mobility-d3ddf7b77b2dba7e250bb813e6001153448bb4c6.jar" />
+    </item>
+
+</items>

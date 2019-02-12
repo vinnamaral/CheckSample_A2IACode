@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="A2iA.Mobility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/A2iA.Mobility.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
